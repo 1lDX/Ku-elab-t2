@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/larmar/Programming/Ku-elab-t2/Lab02/04'
+relocations:     []
+...
